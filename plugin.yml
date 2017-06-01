@@ -1,0 +1,17 @@
+main: me.nuclear.hcfessent.Main
+description: HCFEssentials
+name: HCFE
+version: 1.0
+author: anuke
+
+commands:
+    coords:
+    teamspeak:
+      alias: [ts]
+    cobble:
+    vanish:
+      alias: [v, invis, invisible]
+    freeze:
+      alias: [ss]
+    staff:
+      alias: [mod, h, staffmode]
